@@ -5,7 +5,7 @@ This space helps gather materials and resources that have been written and some 
 
 ## Sections
 
-Linguistic Research
+[Linguistic Research](https://kelivermore.github.io/ichishkiin-journal/linguistics.md)
 
 Language Teaching Research (_coming soon_)
 
